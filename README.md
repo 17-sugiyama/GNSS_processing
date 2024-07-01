@@ -13,8 +13,8 @@ This notebook runs the following process:
 3. Compress the obs files.
 
 ## PPPdirect_run.ipynb
-We use "PPP direct", windows desktop app for CSRS-PPP, which can be downloaded from Canadian gorverment website (https://www.canada.ca/en.html).\
-The download page locates 
+We use "PPP direct", windows desktop app for CSRS-PPP, which can be downloaded from Canadian gorverment website (https://www.canada.ca/en.html).
+The download page locates at
 `Canada.ca > Natural Resources Canada > Maps, Tools and Publications > Geodetic Reference Systems > Geodetic tools and data > Desktop Applications`.\
 This app enables the automation of downloading the CSRS-PPP result files to your local folder.
 
